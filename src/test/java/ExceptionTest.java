@@ -4,10 +4,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class ExceptionTest {
-    static ExceptionChallenge ec;
+    static Lab ec;
     @BeforeClass
     public static void setUp(){
-        ec = new ExceptionChallenge();
+        ec = new Lab();
     }
 
     /**
